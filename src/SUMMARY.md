@@ -28,3 +28,4 @@
   - [Discussion of outcomes and benefits achieved through AI adoption](chapter-7-2.md)
   - [Analysis of potential challenges and obstacles faced during AI implementation](chapter-7-3.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)

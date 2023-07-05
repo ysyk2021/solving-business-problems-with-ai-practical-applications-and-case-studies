@@ -1,4 +1,4 @@
-Natural Language Processing, Machine Learning, and Deep Learning
+Types of AI: natural language processing, machine learning, and deep learning
 ============================================================================================================================================
 
 Artificial Intelligence (AI) has emerged as a powerful tool for solving complex business problems. It enables businesses to automate processes, increase efficiency, and make data-driven decisions. However, understanding the different types of AI technologies can be confusing, especially for those who are new to the field. In this chapter, we will explore three types of AI: natural language processing, machine learning, and deep learning.
