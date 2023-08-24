@@ -1,5 +1,3 @@
-Chatbots, virtual assistants, and other AI-powered tools for customer service
-===============================================================================================================================
 
 In recent years, artificial intelligence (AI) has played an increasingly important role in improving customer experience. AI-powered tools like chatbots and virtual assistants can help businesses provide efficient and personalized customer service. In this chapter, we will explore the various AI-powered tools that businesses can use to improve their customer service.
 

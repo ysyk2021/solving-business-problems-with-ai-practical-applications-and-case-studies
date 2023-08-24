@@ -1,5 +1,3 @@
-Use of AI for automating repetitive tasks and processes in businesses
-=======================================================================================================================
 
 In today's fast-paced business environment, companies must identify ways to automate repetitive and time-consuming tasks to increase efficiency and productivity. With the advancements in artificial intelligence (AI), businesses can now leverage this technology to automate various business processes. In this chapter, we will explore how AI can be used to automate business processes.
 
