@@ -10,3 +10,7 @@ Whether you are looking to optimize supply chain management, improve customer se
 We hope that this book will serve as a valuable resource for businesses of all sizes and industries looking to solve problems and drive growth through AI.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
