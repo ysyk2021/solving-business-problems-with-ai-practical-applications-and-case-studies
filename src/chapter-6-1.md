@@ -1,5 +1,4 @@
-Use of AI for Targeted Advertising and Personalized Marketing Campaigns
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has revolutionized the field of marketing by enabling targeted advertising and personalized marketing campaigns. This chapter explores how AI can be leveraged to deliver highly customized and effective marketing experiences, driving customer engagement and business growth.
 

@@ -1,5 +1,4 @@
-Chapter 2: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of Artificial Intelligence (AI) technologies that are commonly used in solving business problems. Understanding these technologies is essential for businesses to identify the most appropriate AI solutions for their specific needs.
 

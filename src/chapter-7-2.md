@@ -1,5 +1,4 @@
-Chapter 8: Discussion of Outcomes and Benefits Achieved through AI Adoption
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the outcomes and benefits that businesses have achieved through the adoption of Artificial Intelligence (AI) technologies. By exploring real-world examples and case studies, we will highlight the transformative impact of AI across various industries and functional areas.
 

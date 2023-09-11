@@ -1,5 +1,4 @@
-Explanation of AI Technology and Its Capabilities for Solving Business Problems
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has emerged as a transformative technology that empowers businesses to solve complex problems, gain valuable insights, and make data-driven decisions. This chapter provides an in-depth explanation of AI technology and its remarkable capabilities in addressing various challenges encountered in the business world.
 

@@ -1,5 +1,4 @@
-Use of AI for Analyzing Data and Providing Insights for Decision-Making
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's data-driven business landscape, the ability to analyze vast amounts of data and extract meaningful insights is crucial for informed decision-making. This chapter explores how Artificial Intelligence (AI) can be leveraged to analyze data and provide valuable insights to drive effective decision-making in various business domains.
 

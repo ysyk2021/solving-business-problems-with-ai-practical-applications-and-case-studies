@@ -1,5 +1,4 @@
-Potential Limitations and Ethical Considerations in Using AI for Data Analysis
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The utilization of Artificial Intelligence (AI) for data analysis offers significant benefits; however, it also presents potential limitations and ethical considerations. This chapter explores some of the key challenges that businesses may encounter when implementing AI for data analysis and provides insights into addressing ethical concerns.
 

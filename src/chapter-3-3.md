@@ -1,5 +1,4 @@
-Chapter 10: Addressing Potential Challenges and Ethical Considerations in Using AI for Process Automation
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential challenges and ethical considerations that businesses must address when using Artificial Intelligence (AI) for process automation. While AI-powered automation offers numerous benefits, businesses must consider the risks, challenges, and ethical implications.
 

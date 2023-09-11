@@ -1,5 +1,4 @@
-Chapter 7: Addressing Concerns and Ethical Considerations in Using AI for Customer Experience Improvement
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the concerns and ethical considerations that arise when using Artificial Intelligence (AI) to improve customer experience. While AI technologies offer significant benefits for enhancing customer interactions, businesses must navigate potential risks and ethical dilemmas to ensure responsible AI implementation.
 
